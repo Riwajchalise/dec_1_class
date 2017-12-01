@@ -1,3 +1,3 @@
 def f(x):
 	return x**2
-poiny(f(3))
+print(f(3))
